@@ -1,0 +1,23 @@
+body{
+  background-color: aqua;
+}
+
+.container{
+  width:500px;
+  height: auto;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+  border-radius: 10px;
+  text-align: center;
+ 
+}
+
+.todoList{
+  margin: 10px;
+  border: 2px solid grey;
+  padding: 10px;
+  border-radius: 10px;
+}
